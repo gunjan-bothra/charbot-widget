@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/charbot-widget/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/charbot-widget/static/js/main.0255ad38.chunk.js",
+    "main.js.map": "/charbot-widget/static/js/main.0255ad38.chunk.js.map",
+    "runtime-main.js": "/charbot-widget/static/js/runtime-main.ca4a7fcc.js",
+    "runtime-main.js.map": "/charbot-widget/static/js/runtime-main.ca4a7fcc.js.map",
+    "static/js/2.7e66642b.chunk.js": "/charbot-widget/static/js/2.7e66642b.chunk.js",
+    "static/js/2.7e66642b.chunk.js.map": "/charbot-widget/static/js/2.7e66642b.chunk.js.map",
+    "static/js/3.a8c57edf.chunk.js": "/charbot-widget/static/js/3.a8c57edf.chunk.js",
+    "static/js/3.a8c57edf.chunk.js.map": "/charbot-widget/static/js/3.a8c57edf.chunk.js.map",
+    "index.html": "/charbot-widget/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/charbot-widget/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.7e66642b.chunk.js.LICENSE.txt": "/charbot-widget/static/js/2.7e66642b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/charbot-widget/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca4a7fcc.js",
+    "static/js/2.7e66642b.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.0255ad38.chunk.js"
+  ]
+}
